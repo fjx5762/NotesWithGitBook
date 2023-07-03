@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            备忘笔记
+longtitle:        备忘笔记
+author:           米斯特三金
+email:            fjx5762@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  备忘笔记.
 
 version:          1.0
 gitbook_version:  3.2.3
